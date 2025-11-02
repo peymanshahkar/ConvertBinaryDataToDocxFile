@@ -1,0 +1,7 @@
+J:\Projects\ReadBinaryDataAndConvertToWordFile\ConvertBinaryToFile\ConvertBinaryToFile\bin\Debug\ConvertBinaryToFile.exe.config
+J:\Projects\ReadBinaryDataAndConvertToWordFile\ConvertBinaryToFile\ConvertBinaryToFile\bin\Debug\ConvertBinaryToFile.exe
+J:\Projects\ReadBinaryDataAndConvertToWordFile\ConvertBinaryToFile\ConvertBinaryToFile\bin\Debug\ConvertBinaryToFile.pdb
+J:\Projects\ReadBinaryDataAndConvertToWordFile\ConvertBinaryToFile\ConvertBinaryToFile\obj\Debug\ConvertBinaryToFile.csproj.AssemblyReference.cache
+J:\Projects\ReadBinaryDataAndConvertToWordFile\ConvertBinaryToFile\ConvertBinaryToFile\obj\Debug\ConvertBinaryToFile.csproj.CoreCompileInputs.cache
+J:\Projects\ReadBinaryDataAndConvertToWordFile\ConvertBinaryToFile\ConvertBinaryToFile\obj\Debug\ConvertBinaryToFile.exe
+J:\Projects\ReadBinaryDataAndConvertToWordFile\ConvertBinaryToFile\ConvertBinaryToFile\obj\Debug\ConvertBinaryToFile.pdb
